@@ -21,9 +21,8 @@ https://github.com/user-attachments/assets/84e51780-5002-4aab-a885-2da3b47d3778
   - Roar
   - Spit (acid)
   - Jump Attack
-  - Strike (short charge)
   - Roof moves: RS Jump, Roof Drop, Roof Jump?
-- In-game keybind editor with “Press any key…” prompts.
+- In-game keybind editor
 - “Fix Mod” button if something gets stuck.
 - Settings save between sessions.
 - Dynamic naming: the mod’s name and menu title follow the DLL filename.
@@ -51,7 +50,7 @@ https://github.com/user-attachments/assets/84e51780-5002-4aab-a885-2da3b47d3778
 - Roar: 0
 - Infectious Outburst: 1
 - Jump Attack: Space
-- Roof Mode: [NOT ALWAYS AVAILABLE]
+- Roof Mode: [ and ] [NOT ALWAYS AVAILABLE]
 
 All controls can be rebound in the in-game menu.
 
