@@ -48,11 +48,10 @@ https://github.com/user-attachments/assets/84e51780-5002-4aab-a885-2da3b47d3778
 ## Default controls
 - Toggle Transform: O (Ctrl required by default)
 - Move: A (left), D (right)
-- Strike: Mouse0
 - Roar: 0
-- Spit 1–5: 1, 2, 3, 4, 5
+- Infectious Outburst: 1
 - Jump Attack: Space
-- Roof Mode: [ (on), ] (off)
+- Roof Mode: [NOT ALWAYS AVAILABLE]
 
 All controls can be rebound in the in-game menu.
 
